@@ -1,7 +1,15 @@
 # 2x2_Display_ESP32_Hardware
 
+<img src= "https://cdn.shopify.com/s/files/1/1217/2104/files/Main_ESP32_Banner.png?v=1720594391" />
 
+The Quad Display Board features four displays in a single board, offering unparalleled flexibility and functionality for your creative endeavors. With options for both a 1.28" Round Display and a 1.54" Square Display, you have the freedom to choose the perfect size for your project needs. 
 
+This Github provides hardware design files for 2x2 Display with ESP32.
+
+### Repository Contents:
+  - [/Design Data](https://github.com/sbcshop/2x2_Display_ESP32_Hardware/tree/main/Design%20Data) - This directory contains Schematic, Top and Bottom View
+  - [/Mechanical Data](https://github.com/sbcshop/2x2_Display_ESP32_Hardware/tree/main/Mechanical%20Data) - This directory contains Dimension, 3D and STEP files
+  - [Getting Started Guide](https://github.com/sbcshop/2x2_Display_ESP32_Software) - This repo contains 2x2 Display with Pico W Getting Started instructions.
 
 ## Related Products  
   * [2x2 Display with Pico W (Round)](https://shop.sb-components.co.uk/products/2x2-quad-display-board?variant=41538301427795)
