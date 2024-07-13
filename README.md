@@ -9,7 +9,7 @@ This Github provides hardware design files for 2x2 Display with ESP32.
 ### Repository Contents:
   - [/Design Data](https://github.com/sbcshop/2x2_Display_ESP32_Hardware/tree/main/Design%20Data) - This directory contains Schematic, Top and Bottom View
   - [/Mechanical Data](https://github.com/sbcshop/2x2_Display_ESP32_Hardware/tree/main/Mechanical%20Data) - This directory contains Dimension, 3D and STEP files
-  - [Getting Started Guide](https://github.com/sbcshop/2x2_Display_ESP32_Software) - This repo contains 2x2 Display with Pico W Getting Started instructions.
+  - [Getting Started Guide](https://github.com/sbcshop/2x2_Display_ESP32_Software) - This repo contains 2x2 Display with ESP32 Getting Started instructions.
 
 ## Related Products  
   * [2x2 Display with Pico W (Round)](https://shop.sb-components.co.uk/products/2x2-quad-display-board?variant=41538301427795)
